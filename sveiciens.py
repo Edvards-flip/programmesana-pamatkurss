@@ -1,1 +1,1 @@
-print("Lai tev jauka diena!")
+print("atttaaaaa!")
