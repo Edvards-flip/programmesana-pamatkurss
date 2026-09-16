@@ -1,1 +1,1 @@
-print("Sveiki, pasaule!")
+print("Lai tev jauka diena!")
