@@ -1,4 +1,4 @@
-# Programmēšana - pamatkurss 
+# Programmēšana - pamatkurss
 Autors: **Edvards Gedrovics**
 ## Kā palaist
 --Manu programmu var palaist ar pogu "Enter"--
