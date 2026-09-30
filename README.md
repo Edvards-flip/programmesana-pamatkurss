@@ -4,4 +4,4 @@ Autors: **Edvards Gedrovics**
 --Manu programmu var palaist ar pogu "Enter"--
 ## Licence
 --MIT is a short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.--
-**Es gribu tieši toooooo**
+### **Es gribu tieši toooooo**
