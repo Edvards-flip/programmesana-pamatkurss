@@ -50,7 +50,7 @@ Parādi šo plānu klasesbiedram un pajautā, vai viņš saprot, ko spēle dara.
 
 ## Spēles mainīgie un formula
 
-## | Mainīgā vārds       | Datu tips | Ko glabā                                  |
+### | Mainīgā vārds       | Datu tips | Ko glabā                                  |
 ### | speletaja_vards     | str       | Spēlētāja vārdu                           |
 ### | hp_punkti           | int       | Spēlētāja sākotnējos veselības punktus    |
 ### | uzbrukuma_jauda     | float     | Uzbrukuma spēku                           |
