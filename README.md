@@ -1,5 +1,5 @@
 # Programmēšana - pamatkurss
-Autors: **Edvards Gedrovics**
+## Autors: **Edvards Gedrovics**
 
 ### <class 'str'> ir a
 ### <class 'int'> ir b
