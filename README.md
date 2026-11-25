@@ -50,7 +50,7 @@ Parādi šo plānu klasesbiedram un pajautā, vai viņš saprot, ko spēle dara.
 
 ## Spēles mainīgie un formula
 
-### | Mainīgā vārds       | Datu tips | Ko glabā                                  |
+##  | Mainīgā vārds       | Datu tips | Ko glabā                                  |
 ### | speletaja_vards     | str       | Spēlētāja vārdu                           |
 ### | hp_punkti           | int       | Spēlētāja sākotnējos veselības punktus    |
 ### | uzbrukuma_jauda     | float     | Uzbrukuma spēku                           |
@@ -63,9 +63,9 @@ Formulā izmantotie mainīgie ir norādīti tabulā.
 
 ## Formulas pārbaude
 
-| Pārbaude            | hp_punkti   | uzbrukuma_jauda   | Aprēķins  | atlikusie_hp_punkti   |
-| Maza vērtību kopa   | 20          | 5                 | 20 - 5    | 15                    |
-| Vidēja vērtību kopa | 100         | 25                | 100 - 25  | 75                    |
-| Liela vērtību kopa  | 500         | 125               | 500 - 125 | 375                   |
+##  | Pārbaude            | hp_punkti   | uzbrukuma_jauda   | Aprēķins  | atlikusie_hp_punkti   |
+### | Maza vērtību kopa   | 20          | 5                 | 20 - 5    | 15                    |
+### | Vidēja vērtību kopa | 100         | 25                | 100 - 25  | 75                    |
+### | Liela vērtību kopa  | 500         | 125               | 500 - 125 | 375                   |
 
 Secinājums: formulu ir vērts pārbaudīt pirms visas programmas rakstīšanas, lai laikus pamanītu kļūdas aprēķinā un pārliecinātos, ka rezultāti ir loģiski.
