@@ -1,4 +1,5 @@
-# 02.12.26 Edvards Gedrovics, spēles mērķis ir aprēķināt 
+# 02.12.26 Edvards Gedrovics, spēles mērķis ir aprēķināt
+
 vards = input("Ievadi varoņa vārdu: ")
 
 speks = int(input("Uzbrukuma spēks: "))
