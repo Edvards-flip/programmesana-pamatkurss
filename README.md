@@ -50,11 +50,11 @@ Parādi šo plānu klasesbiedram un pajautā, vai viņš saprot, ko spēle dara.
 
 ## Spēles mainīgie un formula
 
-# | Mainīgā vārds         | Datu tips | Ko glabā                                  |
-# | `speletaja_vards`     | `str`     | Spēlētāja vārdu                           |
-# | `hp_punkti`           | `int`     | Spēlētāja sākotnējos veselības punktus    |
-# | `uzbrukuma_jauda`     | `float`   | Uzbrukuma spēku                           |
-# | `atlikusie_hp_punkti` | `float`   | Spēlētāja veselības punktus pēc uzbrukuma |
+### | Mainīgā vārds         | Datu tips | Ko glabā                                  |
+### | `speletaja_vards`     | `str`     | Spēlētāja vārdu                           |
+### | `hp_punkti`           | `int`     | Spēlētāja sākotnējos veselības punktus    |
+### | `uzbrukuma_jauda`     | `float`   | Uzbrukuma spēku                           |
+### | `atlikusie_hp_punkti` | `float`   | Spēlētāja veselības punktus pēc uzbrukuma |
 
 Formula: `atlikusie_hp_punkti = hp_punkti - uzbrukuma_jauda`
 
