@@ -1,4 +1,4 @@
-# 02.12.26 Edvards Gedrovics, spēles mērķis ir aprēķināt
+# 02.12.26 Edvards Gedrovics, spēles mērķis ir aprēķināt duelī iegūto punktu skaitu.
 
 vards = input("Ievadi varoņa vārdu: ")
 
